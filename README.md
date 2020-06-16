@@ -1,10 +1,6 @@
 # Description
 A full-text search engine implementation with the Okapi BM25 ranking function.
 
-The indexer is designed for the TREC Wall Street Journal collection of XML documents.  
-Sample data for the indexer is available here:  
-https://drive.google.com/open?id=1IzWUp31tB3RD4SGT1vt8OCLR1w9j3YMc
-
 University of Otago, COSC431, Assignment 1.  
 Author: Stepan Belousov.
 
