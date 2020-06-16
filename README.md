@@ -5,7 +5,7 @@ The indexer is designed for the TREC Wall Street Journal collection of XML docum
 Sample data for the indexer is available here:  
 https://drive.google.com/open?id=1IzWUp31tB3RD4SGT1vt8OCLR1w9j3YMc
 
-University of Otago COSC431 Assignment 1.  
+University of Otago, COSC431, Assignment 1.  
 Author: Stepan Belousov.
 
 # Setup for Linux
