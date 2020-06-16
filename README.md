@@ -19,7 +19,7 @@ $ make -j4
 $ cd bin
 
 2\. Running the parser:  
-$ ./parser.py < wsj.xml > index.txt
+$ ./parser.py < input.xml > index.txt
 
 3\. Running the indexer:  
 $ ./indexer index.bin < index.txt
