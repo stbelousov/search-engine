@@ -16,6 +16,7 @@ Requirements:
 
 1\. Building:  
 $ git clone https://github.com/stbelousov/search-engine.git  
+$ mkdir search-engine/build  
 $ cd search-engine/build  
 $ cmake ..  
 $ make -j4  
