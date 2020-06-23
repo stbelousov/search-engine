@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+"""A parser for The Wall Street Journal documents."""
+
 import re
 import string
 import sys
