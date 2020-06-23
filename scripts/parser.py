@@ -74,6 +74,7 @@ def main():
         tags_and_vals = list(filter(is_good_token, SPLIT_TAGS_RE.split(line)))
 
         # Iterate over tags and their values
+        # We do not use the standard XML parsing library due to the assignment requirements
         for tag_or_val in tags_and_vals:
             if tag_or_val.startswith('</') and tags_stack:
                 # Closing tag
